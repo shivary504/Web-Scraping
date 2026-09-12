@@ -100,13 +100,13 @@ lxml
 ### Daredevil
 
 ```bash
-python daredevil/scraper.py
+python daredevil/dd.py
 ```
 
 ### Currency
 
 ```bash
-python currency/scraper.py
+python currency/currencyval.py
 ```
 
 ## What This Repository Demonstrates
